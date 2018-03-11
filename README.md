@@ -12,7 +12,7 @@ Run tracking on single video "Subway" (which is already included in this reposit
 
 Run tracking on full benchmark:
 
-1) Change `base_path` in "config.m" to your path to the [benchmark dataset]().
+1) Change `base_path` in "config.m" to your path to the [benchmark dataset](http://cvlab.hanyang.ac.kr/tracker_benchmark/index.html).
 2) Run `demo_benchmark`.
 
 All tracking results will be stored in the "results" folder.
